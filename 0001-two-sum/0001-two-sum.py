@@ -6,4 +6,3 @@ class Solution(object):
             if need in seen:
                 return [seen[need],i]
             seen[nums[i]]=i
-
