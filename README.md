@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0027-remove-element) |
 | [1480-running-sum-of-1d-array](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
