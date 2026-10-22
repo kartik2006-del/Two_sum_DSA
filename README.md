@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -30,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
