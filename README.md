@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
