@@ -1,10 +1,9 @@
 class Solution(object):
     def groupAnagrams(self, strs):
-        groups={}
-        for words in strs:
-            key=''.join(sorted(words))
-            if key not in groups:
-                groups[key]=[]
-            groups[key].append(words)
-        return list(groups.values())
-        
+        freq={}
+        for i in strs:
+            key=''.join(sorted(i))
+            if key not in freq:
+                freq[key]=[]
+            freq[key].append(i)
+        return list(freq.values())
