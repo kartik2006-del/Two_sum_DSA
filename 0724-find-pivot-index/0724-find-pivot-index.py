@@ -9,3 +9,6 @@ class Solution(object):
                 return j
             left_sum+=nums[j]
         return -1
+
+
+        
