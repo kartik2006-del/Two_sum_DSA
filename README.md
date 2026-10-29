@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -75,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
