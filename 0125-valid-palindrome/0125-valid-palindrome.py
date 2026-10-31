@@ -6,3 +6,4 @@ class Solution(object):
             if ('a'<=i<='z') or ('0'<=i<='9'):
                 clean+=i
         return clean==clean[::-1]
+        
