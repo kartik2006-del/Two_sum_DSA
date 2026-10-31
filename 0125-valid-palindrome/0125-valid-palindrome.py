@@ -1,9 +1,21 @@
 class Solution(object):
     def isPalindrome(self, s):
-        s=s.lower()
-        clean=''
-        for i in s:
-            if ('a'<=i<='z') or ('0'<=i<='9'):
-                clean+=i
-        return clean==clean[::-1]
-        
+        l = 0
+        r = len(s) - 1
+
+        while l < r:
+
+            if not s[l].isalnum():
+                l += 1
+
+            elif not s[r].isalnum():
+                r -= 1
+
+            elif s[l].lower() != s[r].lower():
+                return False
+
+            else:
+                l += 1
+                r -= 1
+
+        return True
