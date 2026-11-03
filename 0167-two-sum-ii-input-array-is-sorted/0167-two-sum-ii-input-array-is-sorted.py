@@ -1,16 +1,12 @@
 class Solution(object):
     def twoSum(self, numbers, target):
-        l = 0
-        r = len(numbers) - 1
-
-        while l < r:
-            total = numbers[l] + numbers[r]
-
-            if total == target:
-                return [l+1, r+1]
-
-            elif total > target:
-                r -= 1
-
-            else:
-                l += 1
+        left=0
+        right=len(numbers)-1
+        while left<right:
+            total=numbers[left]+numbers[right]
+            if total==target:
+                return [left+1,right+1]
+            elif total>target:
+                right-=1
+            elif total<target:
+                left+=1
