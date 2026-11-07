@@ -106,4 +106,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0643-maximum-average-subarray-i) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
