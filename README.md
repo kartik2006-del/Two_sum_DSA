@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0303-range-sum-query-immutable) |
 ## Binary Search
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
