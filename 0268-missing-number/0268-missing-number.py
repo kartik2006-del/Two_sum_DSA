@@ -4,4 +4,4 @@ class Solution(object):
         for i in range(len(nums)):
             total+=nums[i]
         n=len(nums)        
-        return n*(n+1)//2-total
+        return n*(n+1)/2-total
