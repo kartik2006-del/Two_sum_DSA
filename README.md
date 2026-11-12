@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0704-binary-search) |
 ## Greedy
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -142,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0933-number-of-recent-calls) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
