@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
