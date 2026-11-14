@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -155,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
