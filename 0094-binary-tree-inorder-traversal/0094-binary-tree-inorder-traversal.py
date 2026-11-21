@@ -6,10 +6,8 @@
 #         self.right = right
 class Solution(object):
     def inorderTraversal(self, root):
-        if root is None:
+        if not root:
             return []
         left=self.inorderTraversal(root.left)
-        left.append(root.val)
         right=self.inorderTraversal(root.right)
-        return left+right
-        
+        return left+[root.val]+right
