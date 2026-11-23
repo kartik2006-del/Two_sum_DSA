@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0724-find-pivot-index) |
+| [1046-last-stone-weight](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/kartik2006-del/Two_sum_DSA/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
